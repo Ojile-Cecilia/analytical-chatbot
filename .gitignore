@@ -1,0 +1,6 @@
+*.log
+*.env
+venv311
+*.db
+=
+*.pyc
