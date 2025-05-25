@@ -45,18 +45,16 @@ This project is an AI-powered chatbot built with Streamlit, designed to help non
 
 ## Tech Stack
 
-- Python
-
-- Streamlit
-
-- pandas
-
-- OpenAI API
-
-- Gemini API (Google Generative AI)
-
-- matplotlib / seaborn (optional, for charts)
-
+- pandasai
+- pandasai[excel]
+- pandasai[connectors]
+- tiktoken
+- streamlit
+- numpy==1.23.5 
+- pandas==1.5.3
+- pyyaml
+- seaborn
+- google-generativeai
 
 
 ## Use Cases
